@@ -2,6 +2,8 @@
 
 Solution for Codewars problem: Sort The Number Sequence - 6 kyu
 
+Includes first solution (sortsequence.js) and refactored solution (sortsequence2.js)
+
 Description:
 
 You are given a number sequence(an array) that contains some positive integer and zero.
